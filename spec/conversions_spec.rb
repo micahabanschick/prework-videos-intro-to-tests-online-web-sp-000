@@ -1,5 +1,5 @@
 require_relative '../conversions.rb'
-require './spec_helper'
+require './spec_helper.rb'
 
 describe "conversions" do
   describe '#ounces_to_grams' do
